@@ -1,0 +1,24 @@
+.credit-card-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(244, 98, 98);
+    padding: 10px;
+  }
+  
+  .card-input {
+    margin-bottom: 10px;
+  }
+  
+  .date-input {
+    display: flex;
+    align-items: center;
+  }
+  
+  .date-input input {
+    margin-right: 5px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
